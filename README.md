@@ -7,7 +7,7 @@ Originally taken here: https://github.com/NVlabs/ffhq-dataset, currently that sc
 Changes from original:
 
 * Works with modern Python3.
-* Downloads in JPEG because original PNG format takes more than 400 GB.
+* Downloads in JPEG because original PNG format takes 955 GB.
 * Adds additional argument --quality for jpeg
 
 
